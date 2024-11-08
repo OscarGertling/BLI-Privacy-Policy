@@ -4,7 +4,7 @@
 Under the General Data Protection Regulation (2016/679), we are responsible for the processing of personal data for which we decide the purposes and the means of processing. With “personal data” we mean information which is directly or indirectly referable to a natural living person and which are processed in connection with the Services.
 We collect personal data when you visit and use our website. In this section, you will find more information about our website-specific processes and tools, in particular from external partners. By using the website you agree to the collection of necessary cookies, for the collection of other information we will ask for your consent when you start using the website.
 Controller's Contact details
-Name: WGJ Software AB Company ID: 559439-3620 Website: wgjsoftware.se Email: info@wgjsoftware.se
+Name: WGJ Software AB Company ID: 559439-3620 Website: wgjsoftware.se Email: oscar.gertling@wgjsoftware.se
 We kindly urge Users to use the addresses set out above for all correspondence related to the processing of personal data and the execution of Users' rights under the applicable data protection legislation.
 Legal grounds for processing
 We primarily process personal data of Users on a contractual basis and to comply with legal obligations. Furthermore, we may process personal data to pursue our legitimate interest to run, maintain and develop our business or to engage in analytics and marketing activities. When choosing to use your data on the basis of our legitimate interests, we weigh our own interests against your right to privacy and e.g. provide you with easy to use opt-out from our marketing communications and use pseudonymized or non-personally identifiable data when possible.
